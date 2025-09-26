@@ -22,9 +22,9 @@
 
 ### 视觉语言模型
 - **Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model** - *arXiv*
-- **Xmodel-LM Technical Report** - *arXiv*
 
 ### 大语言模型
+- **Xmodel-LM Technical Report** - *arXiv*
 - **Xmodel-1.5: An 1B-scale Multilingual LLM** - *arXiv*
 - **Xmodel-2 Technical Report** - *arXiv*
 
@@ -54,9 +54,19 @@
 
 ## 📊 时间线
 
-- **2023年11月**：实验室成立和初步研究方向确定
-- **2024年**：核心模型开发和多模态研究
-- **2025年**：应用研究、基准测试和发表工作
+- **2023年10月**：实验室成立和初步研究方向确定
+- **2023年11月**：启动 Xmodel-LM 预研
+- **2024年1月**：启动 Xmodel-VLM 预研
+- **2024年5月**：Xmodel-VLM 论文上传 arXiv
+- **2024年5月**：启动 MindFlow 预研
+- **2024年5月**：启动 Xmodel-1.5 预研
+- **2024年6月**：Xmodel-LM 论文上传 arXiv
+- **2024年8月**：启动 Xmodel-2 预研
+- **2024年11月**：Xmodel-1.5 论文上传 arXiv
+- **2024年12月**：Xmodel-2 论文上传 arXiv
+- **2025年3月**：启动 ECom-Bench 预研
+- **2025年7月**：ECom-Bench 和 MindFlow 论文提交 EMNLP 2025 Industry Track，并上传 arXiv
+- **2025年9月**：MemOrb 论文提交 ICLR 2026，并上传 arXiv
 - **2025年9月**：实验室关闭和档案创建
 
 ## 🤝 致谢
