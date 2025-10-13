@@ -77,7 +77,7 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="assets/group_photo_0.jpg" width="200" alt="合影1"><br>**严煜**（哈尔滨工业大学威海校区）<br>**自研Tokenizer**（2024年1月）
+| <img src="assets/group_photo_0.jpg" width="200" alt="合影1"><br>**严煜**（哈尔滨工业大学威海校区）<br>**自研Tokenizer**（2024年1月）\
 | <img src="assets/group_photo_1.jpg" width="200" alt="合影2"><br>**徐婉婷**（华东师范大学）<br>**Xmodel-VLM**（2024年5月）
 | <img src="assets/group_photo_2.jpg" width="200" alt="合影3"><br>**王一川**（上海交通大学）<br>**Xmodel-LM**（2024年6月）
 |
