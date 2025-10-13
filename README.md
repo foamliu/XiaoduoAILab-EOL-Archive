@@ -77,7 +77,7 @@
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="assets/yanyu.jpg" width="200" alt="合影1"><br>**严煜**（哈尔滨工业大学威海校区）<br>**自研Tokenizer**<br>（2024/1）| <img src="assets/xuwanting.jpg" width="200" alt="合影2"><br>**徐婉婷**（华东师范大学）<br>**Xmodel-VLM**<br>（2024/5）| <img src="assets/wangyichuan.jpg" width="200" alt="合影3"><br>**王一川**（上海交通大学）<br>**Xmodel-LM**<br>（2024/6）|
+| <img src="assets/yanyu.jpg" width="200" alt="合影1"><br>**严煜**（哈尔滨工业大学威海校区）<br>**自研Tokenizer**<br>（2024/1）| <img src="assets/xuwanting.jpg" width="200" alt="合影2"><br>**徐婉婷/何浪平**<br>（华东师范大学/东华大学,左二左四）<br>**Xmodel-VLM**<br>（2024/5）| <img src="assets/wangyichuan.jpg" width="200" alt="合影3"><br>**王一川**（上海交通大学）<br>**Xmodel-LM**<br>（2024/6）|
 | <img src="assets/linqingquan.jpg" width="200" alt="合影4"><br>**林清权/曲志久**<br>（武汉大学/复旦大学，右二/右一）<br>**Xmodel-2**<br>（2024/12） | <img src="assets/huangxucheng.jpg" width="200" alt="合影4"><br>**黄旭程**（全职）<br>**分布式训练框架**<br>（2025/6） | <img src="assets/wangqun.jpg" width="200" alt="合影5"><br>**王群**（上海海事大学）<br>**Xmodel-1.5+Xmodel-2**<br>（2025/6） |
 | <img src="assets/wanghaoxin.jpg" width="200" alt="合影6"><br>**王浩新/彭显涵/杨承汉**<br>（上海交通大学，左三/左四/左二）<br>**ECom-Bench**（王/彭）<br>**领域模型/领域智能体综述**(杨)<br>（2025/6 & 2025/8） | <img src="assets/gongming.jpg" width="200" alt="合影9"><br>**龚鸣**（戴顿大学）<br>**MindFlow**<br>（2025/8）| <img src="assets/huangyizhe.jpg" width="200" alt="合影8"><br>**黄一哲**（复旦大学，右一）<br>**MemOrb**<br>（2025/9）|
 
