@@ -69,6 +69,20 @@
 - **2025年9月**：MemOrb 论文提交 ICLR 2026，并上传 arXiv
 - **2025年9月**：实验室关闭和档案创建
 
+## 📸 实验室成员合影
+
+以下是实验室运营期间的部分成员合影，记录了团队的美好时光：
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="assets/group_photo_0.jpg" width="200" alt="合影1"> | <img src="assets/group_photo_1.jpg" width="200" alt="合影2"> | <img src="assets/group_photo_2.jpg" width="200" alt="合影3"> |
+| <img src="assets/group_photo_3.jpg" width="200" alt="合影4"> | <img src="assets/group_photo_4.jpg" width="200" alt="合影5"> | <img src="assets/group_photo_5.jpg" width="200" alt="合影6"> |
+| <img src="assets/group_photo_6.jpg" width="200" alt="合影7"> | <img src="assets/group_photo_7.jpg" width="200" alt="合影8"> | <img src="assets/group_photo_8.jpg" width="200" alt="合影9"> |
+
+</div>
+
 ## 🤝 致谢
 
 我们学习和参考了AI社区的论文和大量开源成果，同时也尝试在力所能及的范围内回馈社区。
