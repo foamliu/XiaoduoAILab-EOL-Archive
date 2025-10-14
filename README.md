@@ -13,27 +13,24 @@
 
 实验室专注于以下几个关键AI研究领域：
 
-- **大语言模型** - 开发高效、多语言的LLM
+- **大语言模型** - 开发高效、多语言、强推理的SLM
 - **多模态视觉语言模型** - 连接视觉与文本理解
-- **电商AI应用** - 客户支持自动化和智能体系统
-- **记忆增强AI系统** - 具备记忆能力的增强型对话AI
+- **领域模型与领域Agent** - 大预研模型和Agent的领域化
 
 ## 📚 主要出版物 (2023-2025)
-
-### 视觉语言模型
-- **Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model** - *arXiv*
 
 ### 大语言模型
 - **Xmodel-LM Technical Report** - *arXiv*
 - **Xmodel-1.5: An 1B-scale Multilingual LLM** - *arXiv*
 - **Xmodel-2 Technical Report** - *arXiv*
 
-### 电商AI系统
-- **MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents** - *arXiv*
-- **ECom-Bench: Can LLM Agent Resolve Real-World E-commerce Customer Support Issues?** - *EMNLP 2025*
-- **MemOrb: A Plug-and-Play Verbal-Reinforcement Memory Layer for E-Commerce Customer Service** - *arXiv*
+### 视觉语言模型
+- **Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model** - *arXiv*
 
-### 综述与分析
+### 领域模型与领域Agent
+- **ECom-Bench: Can LLM Agent Resolve Real-World E-commerce Customer Support Issues?** - *EMNLP 2025*
+- **MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents** - *arXiv*
+- **MemOrb: A Plug-and-Play Verbal-Reinforcement Memory Layer for E-Commerce Customer Service** - *arXiv*
 - **Survey of Specialized Large Language Model** - *arXiv*
 
 ## 🔬 技术贡献
@@ -63,7 +60,7 @@ gantt
     实验室成立 :done, 2023-10, 1M
     实验室关闭 :crit, 2025-09, 1M
     
-    section 语言模型项目
+    section 大语言模型
     Xmodel-LM :active, 2023-11, 7M
     Xmodel-1.5 :active, 2024-05, 6M
     Xmodel-2 :active, 2024-08, 4M
@@ -71,7 +68,7 @@ gantt
     section 视觉语言模型
     Xmodel-VLM :active, 2024-01, 4M
     
-    section 其他研究项目
+    section 领域模型与领域Agent
     MindFlow :active, 2024-05, 14M
     ECom-Bench :active, 2025-03, 4M
     领域模型综述 :active, 2025-05, 3M
