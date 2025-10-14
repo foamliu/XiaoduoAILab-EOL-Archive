@@ -53,21 +53,30 @@
 - **效率优化**：强调模型效率和实际部署
 
 ## 📊 时间线
-
-- **2023年10月**：实验室成立和初步研究方向确定
-- **2023年11月**：启动 Xmodel-LM 预研
-- **2024年1月**：启动 Xmodel-VLM 预研
-- **2024年5月**：Xmodel-VLM 论文上传 arXiv
-- **2024年5月**：启动 MindFlow 预研
-- **2024年5月**：启动 Xmodel-1.5 预研
-- **2024年6月**：Xmodel-LM 论文上传 arXiv
-- **2024年8月**：启动 Xmodel-2 预研
-- **2024年11月**：Xmodel-1.5 论文上传 arXiv
-- **2024年12月**：Xmodel-2 论文上传 arXiv
-- **2025年3月**：启动 ECom-Bench 预研
-- **2025年7月**：ECom-Bench 和 MindFlow 论文提交 EMNLP 2025 Industry Track，并上传 arXiv
-- **2025年9月**：MemOrb 论文提交 ICLR 2026，并上传 arXiv
-- **2025年9月**：实验室关闭和档案创建
+```mermaid
+gantt
+    title 实验室研究项目时间线
+    dateFormat  YYYY-MM
+    axisFormat %Y年%m月
+    
+    section 实验室管理
+    实验室成立 :done, 2023-10, 1M
+    实验室关闭 :crit, 2025-09, 1M
+    
+    section 语言模型项目
+    Xmodel-LM :active, 2023-11, 7M
+    Xmodel-1.5 :active, 2024-05, 6M
+    Xmodel-2 :active, 2024-08, 4M
+    
+    section 视觉语言模型
+    Xmodel-VLM :active, 2024-01, 4M
+    
+    section 其他研究项目
+    MindFlow :active, 2024-05, 14M
+    ECom-Bench :active, 2025-03, 4M
+    领域模型综述 :active, 2025-05, 3M
+    MemOrb :active, 2025-07, 2M
+```
 
 ## 📸 实验室成员合影
 
