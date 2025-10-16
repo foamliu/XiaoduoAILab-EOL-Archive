@@ -20,18 +20,18 @@
 ## 📚 主要出版物 (2023-2025)
 
 ### 大语言模型
-- **Xmodel-LM Technical Report** - *arXiv*
-- **Xmodel-1.5: An 1B-scale Multilingual LLM** - *arXiv*
-- **Xmodel-2 Technical Report** - *arXiv*
+- **Xmodel-LM Technical Report** - *[arXiv](https://arxiv.org/abs/2406.02856)* | *[Code](https://github.com/XiaoduoAILab/XmodelLM)* | *[Model](https://huggingface.co/XiaoduoAILab/Xmodel_LM)*
+- **Xmodel-1.5: An 1B-scale Multilingual LLM** - *[arXiv](https://arxiv.org/abs/2411.10083)* | *[Code](https://github.com/XiaoduoAILab/)* | *[Model](https://huggingface.co/XiaoduoAILab/XmodelLM1.5)*
+- **Xmodel-2 Technical Report** - *[arXiv](https://arxiv.org/abs/2412.19638)* | *[Code](https://github.com/XiaoduoAILab/Xmodel-2)* | *[Model](https://huggingface.co/XiaoduoAILab/Xmodel-2)*
 
 ### 视觉语言模型
-- **Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model** - *arXiv*
+- **Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model** - *[arXiv](https://arxiv.org/abs/2405.09215)* | *[Code](https://github.com/XiaoduoAILab/XmodelVLM)* | *[Model](https://huggingface.co/XiaoduoAILab/Xmodel_VLM)*
 
 ### 领域模型与领域Agent
-- **ECom-Bench: Can LLM Agent Resolve Real-World E-commerce Customer Support Issues?** - *EMNLP 2025*
-- **MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents** - *arXiv*
-- **MemOrb: A Plug-and-Play Verbal-Reinforcement Memory Layer for E-Commerce Customer Service** - *arXiv*
-- **Survey of Specialized Large Language Model** - *arXiv*
+- **ECom-Bench: Can LLM Agent Resolve Real-World E-commerce Customer Support Issues?** - *[EMNLP 2025](https://arxiv.org/abs/2507.05639)* | *[Code](https://github.com/XiaoduoAILab/ECom-Bench)*
+- **MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents** - *[arXiv](https://arxiv.org/abs/2507.05330)*
+- **MemOrb: A Plug-and-Play Verbal-Reinforcement Memory Layer for E-Commerce Customer Service** - *[arXiv](https://arxiv.org/abs/2509.18713)* | *[Code](https://github.com/XiaoduoAILab/MemOrb)*
+- **Survey of Specialized Large Language Model** - *[arXiv](https://arxiv.org/abs/2508.19667)* 
 
 ## 🔬 技术贡献
 
@@ -99,7 +99,13 @@ gantt
 
 ## 🔗 相关资源
 
-如需访问实际模型、数据集或实现代码，请参考与各论文相关的独立仓库。
+如需访问实际模型、数据集或实现代码，请参考与各论文相关的独立仓库：
+
+- **模型仓库**: [Hugging Face](https://huggingface.co/XiaoduoAILab/)
+- **代码仓库**: [GitHub](https://github.com/XiaoduoAILab/)
+- **刘杨主页**: [GitHub](https://foamliu.github.io/)
+
+具体项目链接请参考上方各论文的对应链接。
 
 ---
 
