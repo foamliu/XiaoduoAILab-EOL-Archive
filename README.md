@@ -29,6 +29,15 @@
 
 ### 领域模型与领域Agent
 - **ECom-Bench: Can LLM Agent Resolve Real-World E-commerce Customer Support Issues?** - *EMNLP 2025*
+
+<div align="center">
+  
+| | |
+|:---:|:---:|
+| <img src="assets/poster.jpg" width="400" alt="ECom-Bench EMNLP 2025 海报"><br>**ECom-Bench 论文海报**<br><small>EMNLP 2025 会议展示</small> | <img src="assets/emnlp_2025.jpg" width="400" alt="王浩新讲解 ECom-Bench"><br>**一作王浩新讲解 ECom-Bench**<br><small>EMNLP 2025 会议现场</small> |
+
+</div>
+
 - **MindFlow: Revolutionizing E-commerce Customer Support with Multimodal LLM Agents** - *arXiv*
 - **MemOrb: A Plug-and-Play Verbal-Reinforcement Memory Layer for E-Commerce Customer Service** - *arXiv*
 - **Survey of Specialized Large Language Model** - *arXiv*
