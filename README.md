@@ -77,7 +77,7 @@ gantt
     Xmodel-LM :active, 2023-11, 7M
     Xmodel-1.5 :active, 2024-05, 6M
     Xmodel-2 :active, 2024-08, 4M
-    Xmodel-2.5 :active, 2024-09, 2M
+    Xmodel-2.5 :active, 2025-09, 2M
     
     section 视觉语言模型
     Xmodel-VLM :active, 2024-01, 4M
