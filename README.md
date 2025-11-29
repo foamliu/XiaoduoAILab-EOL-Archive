@@ -23,6 +23,7 @@
 - **Xmodel-LM Technical Report** - *arXiv*
 - **Xmodel-1.5: An 1B-scale Multilingual LLM** - *arXiv*
 - **Xmodel-2 Technical Report** - *arXiv*
+- **Xmodel-2.5: 1.3B Data-Efficient Reasoning SLM** - *arXiv*
 
 ### 视觉语言模型
 - **Xmodel-VLM: A Simple Baseline for Multimodal Vision Language Model** - *arXiv*
@@ -76,6 +77,7 @@ gantt
     Xmodel-LM :active, 2023-11, 7M
     Xmodel-1.5 :active, 2024-05, 6M
     Xmodel-2 :active, 2024-08, 4M
+    Xmodel-2.5 :active, 2024-09, 2M
     
     section 视觉语言模型
     Xmodel-VLM :active, 2024-01, 4M
@@ -97,7 +99,7 @@ gantt
 |:---:|:---:|:---:|
 | <img src="assets/yanyu.jpg" width="200" alt="合影1"><br>**严煜**（实习生）<br>哈尔滨工业大学威海校区<br>**自研Tokenizer**<br><small>2024/1</small> | <img src="assets/xuwanting.jpg" width="200" alt="合影2"><br>**徐婉婷/何浪平**<br>（左二/右三，实习生）<br>华东师范大学/东华大学<br>**Xmodel-VLM**<br><small>2024/5</small> | <img src="assets/wangyichuan.jpg" width="200" alt="合影3"><br>**王一川**（实习生）<br>上海交通大学<br>**Xmodel-LM**<br><small>2024/6</small> |
 | <img src="assets/linqingquan.jpg" width="200" alt="合影4"><br>**林清权/曲志久**<br>（右二/右一，实习生）<br>武汉大学/复旦大学<br>**Xmodel-2**<br><small>2024/12</small> | <img src="assets/huangxucheng.jpg" width="200" alt="合影4"><br>**刘杨/黄旭程**<br>（右/左，全职）<br>北京大学/埃尔朗根纽伦堡大学<br>**分布式训练框架等**<br><small>2025/6</small> | <img src="assets/wangqun.jpg" width="200" alt="合影5"><br>**王群**（实习生）<br>上海海事大学<br>**Xmodel-1.5+Xmodel-2**<br><small>2025/6</small> |
-| <img src="assets/wanghaoxin.jpg" width="200" alt="合影6"><br>**王浩新/彭显涵/杨承汉**<br>（左三/左四/左二，实习生）<br>上海交通大学，<br>**ECom-Bench**（王/彭）<br>**领域大模型综述**（杨）<br><small>2025/6</small> | <img src="assets/gongming.jpg" width="200" alt="合影9"><br>**龚鸣**（实习生）<br>戴顿大学 <br>**MindFlow**<br><small>2025/8</small> | <img src="assets/huangyizhe.jpg" width="200" alt="合影8"><br>**黄一哲**（右一，实习生）<br>复旦大学<br>**MemOrb**<br><small>2025/9</small> |
+| <img src="assets/wanghaoxin.jpg" width="200" alt="合影6"><br>**王浩新/彭显涵/杨承汉**<br>（左三/左四/左二，实习生）<br>上海交通大学，<br>**ECom-Bench**（王/彭）<br>**领域大模型综述**（杨）<br><small>2025/6</small> | <img src="assets/gongming.jpg" width="200" alt="合影9"><br>**龚鸣**（实习生）<br>戴顿大学 <br>**MindFlow**<br><small>2025/8</small> | <img src="assets/huangyizhe.jpg" width="200" alt="合影8"><br>**黄一哲/钟小龙**（右一/左二，实习生）<br>复旦大学/上海交大<br>**MemOrb**<br><small>2025/9</small> <br>**Xmodel-2.5**<br><small>2025/11</small> |
 
 </div>
 
